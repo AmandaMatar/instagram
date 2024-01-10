@@ -8,7 +8,7 @@
 
 <br>
 
-[![template](https://drive.google.com/uc?id=1CicFop-N_4Pm7zLMg-Ge9uGjpNAAntIF)(https://www.youtube.com/watch?v=1rdNYHuGteM)
+[![template](https://drive.google.com/uc?id=1CicFop-N_4Pm7zLMg-Ge9uGjpNAAntIF)](https://www.youtube.com/watch?v=1rdNYHuGteM)
 
 <br>
 
