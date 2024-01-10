@@ -1,4 +1,44 @@
-# instagram
+# Projeto final Instagram
+
+**Este é o projeto final do The Vue 3 Bootcamp - The Complete Developer Guide.**
+
+<br>
+
+***Antes de começar confira o resultado do visual da nossa aplicação! Clique na imagem para ser direcionado.***
+
+<br>
+
+[![template]()()]
+
+<br>
+
+## O que vimos neste projeto?
+- Neste projeto aplicamos todos os conhecimentos que trabalhamos no Bootcamp, além de trabalhar com o SUPABASE.
+- O projeto foi divido em: **Capstone Project Start, Building the UI With a Vue Library, Identifying Users with Authentication, Uploading and Displaying Photos, Complex Data Relations, Scroll Based Pagination.**
+
+<br>
+<br>
+
+>[!NOTE]
+>Vale ressaltar que usamos a plataforma SUPABASE para buildar algumas tarefas de backend, pois não era a proposta do curso focar nessas funções. 
+
+<br>
+<br>
+
+>[!NOTE]
+>Também usamos o banco de dados Postgres.
+
+<br>
+<br>
+
+:nerd_face:
+
+<br>
+
+Obrigada!
+
+<br>
+<br>
 
 This template should help get you started developing with Vue 3 in Vite.
 
