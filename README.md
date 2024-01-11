@@ -19,6 +19,23 @@
 <br>
 <br>
 
+## Confira também todos os outros projetos que trabalhamos neste curso:
+
+- [NotesApp](https://github.com/AmandaMatar/NotesApp)
+- [VueCounterApp](https://github.com/AmandaMatar/VueCounterApp)
+- [VueCounterApp2](https://github.com/AmandaMatar/VueCounterApp2)
+- [JSCounterApp](https://github.com/AmandaMatar/JSCounterApp)
+- [RouterVueLearning](https://github.com/AmandaMatar/RouterVueLearning)
+- [animation](https://github.com/AmandaMatar/animation)
+- [QuizApp](https://github.com/AmandaMatar/QuizApp)
+- [smallApp](https://github.com/AmandaMatar/smallApp)
+- [showsApp](https://github.com/AmandaMatar/showsApp)
+- [stateApp](https://github.com/AmandaMatar/stateApp)
+- [intagram](https://github.com/AmandaMatar/instagram)
+
+<br>
+<br>
+
 >[!NOTE]
 >Vale ressaltar que usamos a plataforma SUPABASE para buildar algumas tarefas de backend, pois não era a proposta do curso focar nessas funções. 
 
